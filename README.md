@@ -1,4 +1,4 @@
-# clangFunctionParameters
+# ClangFunctionParameters
 This is a static analysis using clang to check whether parameters of functions in a given C++ code has more than 3 parameters or not to warn the developers.
 
 ## Table of contents
